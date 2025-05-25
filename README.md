@@ -4,7 +4,11 @@
 
 🎥 Demo
 
-https://github.com/user-attachments/assets/60a4372c-a19d-4b31-8ab6-5f4b04f20e44
+<div align="center">
+    <video src="https://github.com/user-attachments/assets/60a4372c-a19d-4b31-8ab6-5f4b04f20e44" width="400" controls>
+        Your browser does not support the video tag.
+    </video>
+</div>
 
 
 
