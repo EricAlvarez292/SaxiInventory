@@ -2,6 +2,9 @@
 
 📱 Inventory Management App - School CRUD Project
 
+📝 Overview
+The Inventory Management App is an Android application designed for school inventory tracking. Users can view stock levels, manage transactions for purchases and sales, and access supplier details with their respective products. The app seamlessly integrates with a backend service running on XAMPP via Retrofit API calls.
+
 🎥 Demo
 
 <div align="center">
@@ -10,10 +13,6 @@
     </video>
 </div>
 
-
-
-📝 Overview
-The Inventory Management App is an Android application designed for school inventory tracking. Users can view stock levels, manage transactions for purchases and sales, and access supplier details with their respective products. The app seamlessly integrates with a backend service running on XAMPP via Retrofit API calls.
 
 🚀 Tech Stack
 
