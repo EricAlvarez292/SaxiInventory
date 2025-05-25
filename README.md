@@ -1,10 +1,12 @@
 # SaxiInventory
 
 📱 Inventory Management App - School CRUD Project
+
 📝 Overview
 The Inventory Management App is an Android application designed for school inventory tracking. Users can view stock levels, manage transactions for purchases and sales, and access supplier details with their respective products. The app seamlessly integrates with a backend service running on XAMPP via Retrofit API calls.
 
 🚀 Tech Stack
+
 UI → Jetpack Compose (Modern declarative UI)
 
 Dependency Injection → Koin (Lightweight DI)
@@ -20,6 +22,7 @@ State Management → Kotlin Coroutines & Flow
 Navigation → Jetpack Navigation
 
 🔥 Features
+
 ✅ View Inventory → Browse all available stock items
 
 ✅ Track Product Availability → Check stock levels dynamically
@@ -41,9 +44,11 @@ This app communicates with a backend service running on XAMPP. Ensure your backe
 The app follows MVI Architecture for reactive UI updates & separation of concerns:
 
 User Action → Intent → ViewModel → Repository → API → UI State
+
 This ensures smooth UI interactions and reduces complexity in handling data updates.
 
 🛠 Development Tools
+
 Postman → API Testing
 
 Android Studio → Development IDE
